@@ -13,3 +13,7 @@ If you make your own prints and/or modify the design - it'd be nice if you'd dro
 It's licensed under CC-0, so do whatever you want!
 
 _Music Is Freedom!_
+
+## unfa - Suppressed (t-shirt)
+
+This is a special design based on the original cover-art intended for printing on t-shirts.
