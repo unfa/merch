@@ -1,5 +1,5 @@
 # merch
-Graphic designs for my t-shirt designs.
+Sources and imagefiles for my t-shirt designs.
 
 ## Music Is Freedom
 
